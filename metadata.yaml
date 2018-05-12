@@ -1,0 +1,43 @@
+_repo: Just-Patty_21048
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, C. M. (Charles Mark)
+    - Relyea, Charles M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+covers:
+- cover_type: archival
+  image_path: 21048-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - Webster, Alice Jean Chandler
+    - McKinney, Jean Webster
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
+description: ''
+gutenberg_issued: '2007-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Just Patty
+url: http://www.gutenberg.org/ebooks/21048
